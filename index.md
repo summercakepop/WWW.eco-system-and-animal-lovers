@@ -1,8 +1,8 @@
 # ANIMAL PALACE
+## welcome to animal palace were you can be warmed by adorable videos and pictures or look at ideas to help the enviorment which helps animals.
 
-You can use the [editor on GitHub](https://github.com/summercakepop/animal-palace/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Photos
 
 ### Markdown
 
