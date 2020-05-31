@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# ANIMAL PALACE
 
 You can use the [editor on GitHub](https://github.com/summercakepop/animal-palace/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
