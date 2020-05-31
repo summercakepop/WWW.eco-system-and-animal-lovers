@@ -1,4 +1,4 @@
-# ANIMAL PALACE
+# ANIMAL LOVE, FOR YOUR HAPPINESS 
 ## welcome to animal palace were you can be warmed by adorable videos and pictures or look at ideas to help the enviorment which helps animals.
 
 
